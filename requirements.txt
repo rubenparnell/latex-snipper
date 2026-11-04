@@ -1,0 +1,4 @@
+pix2tex[gui]
+Pillow
+pynput
+windows-toasts
