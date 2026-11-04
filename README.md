@@ -1,5 +1,5 @@
 
-# win-snip2tex
+# latex-snipper
 
 A zero-friction, background LaTeX OCR companion for Windows powered by [`pix2tex`](https://github.com/lukas-blecher/LaTeX-OCR).
 
@@ -75,10 +75,10 @@ The script binds to native Windows `F24` virtual keycodes, allowing you to trigg
 
 ## Run on Windows Startup (Optional)
 
-To start `win-snip2tex` automatically and silently when Windows boots:
+To start `latex-snipper` automatically and silently when Windows boots:
 
 1. Press `Win + R`, type `shell:startup`, and press **Enter** to open your Windows Startup folder.
-2. In that folder, create a file named `launch_snip2tex.vbs`.
+2. In that folder, create a file named `launch_latex_snipper.vbs`.
 3. Add the following code (adjust paths to match your exact directory structure):
 
 ```vbs
